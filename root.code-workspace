@@ -9,5 +9,8 @@
     {
       "path": "proj2"
     }
-  ]
+  ],
+  "settings": {
+    "black-formatter.importStrategy": "fromEnvironment"
+  }
 }
